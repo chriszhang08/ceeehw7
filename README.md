@@ -6,7 +6,7 @@ Equation: y =  1.1116520730531505 x +  -2.4099578479700163\
 ## Qusetion 1b
 Score = 0.4423746861136205\
 Humidity = 0.9643215227582069 + -0.047545892639974406 Temperature + 0.03113094358313695 App Temperature\
-![MultipleLinearPlot](https://drive.google.com/file/d/1bAYfTxx_s4nET2E2MfPDroucCd9r8P4D/view?usp=share_link)
+![MultipleLinearPlot](http://thewowstyle.com/beautiful-nature-images-free-to-download/)
 
 ### Discussion
 It seems that the relationship between temperature and apparent temperature is very strong. 
